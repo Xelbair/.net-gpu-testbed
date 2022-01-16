@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = OpenCLComputeTestbed
+build_property.ProjectDir = F:\Projects\C#\.net-gpu-testbed\src\OpenCLComputeTestbed\
